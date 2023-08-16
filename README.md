@@ -4,6 +4,13 @@ Perkenalkan nama saya **Ahmad Sulha Ansori**.\
 Saya adalah mahasiswa Sistem Informasi di Universitas Amikom Yogyakarta. Saya Memiliki minat dan kemampuan dalam bidang **Web Development**.
 Jika kamu tertarik untuk berkenalan denganku, silahkan ikuti akun [Linkedin](https://www.linkedin.com/in/ahmad-sulha-45a41a243/)ku ya.
 
+<p align="left">
+<a href="https://github.com/SulhaAnsori">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=SulhaAnsori&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SulhaAnsori&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
 <!--
 **SulhaAnsori/SulhaAnsori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
