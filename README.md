@@ -2,7 +2,7 @@
 
 Perkenalkan nama saya **Ahmad Sulha Ansori**.\
 Saya adalah mahasiswa Sistem Informasi di Universitas Amikom Yogyakarta. Saya Memiliki minat dan kemampuan dalam bidang **Web Development**.
-Jika kamu tertarik untuk berkenalan denganku, silahkan ikuti akun [Linkedin](https://www.linkedin.com/in/ahmad-sulha-45a41a243/)ku ya.
+Jika kamu tertarik untuk berkenalan denganku, silahkan ikuti akun [Linkedin](https://www.linkedin.com/in/ahmad-sulha-ansori-45a41a243/)ku ya.
 
 <p align="left">
 <a href="https://github.com/SulhaAnsori">
